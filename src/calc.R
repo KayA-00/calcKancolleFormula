@@ -1,6 +1,3 @@
-getwd()
-setwd("C:/Users/yamak/Documents/K/")
-
 
 # 複数行コメントアウト : ctrl+shift+c
 # 2018/03現在、実測値に最も近いとされる推定式は以下の通りである([]内は端数切捨て)。
